@@ -19,3 +19,7 @@
 [![](https://visitcount.itsvg.in/api?id=Raxmatov005&icon=0&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<p align='center'>
+  <img src='https://github.com/samandareo/samandareo/blob/main/snake.svg' alt='GitHub Snake' />
+</p>
